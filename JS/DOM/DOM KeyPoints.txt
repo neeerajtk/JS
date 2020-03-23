@@ -1,0 +1,9 @@
+> Selection of items
+    document.getElementById()
+    document.getElementByClassName()
+    document.getElementByTagName()
+    document.querySelector()
+    document.querySelectorAll()
+
+    .textContent and .innerHTML
+    
